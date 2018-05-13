@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="american_football_scores">American Football Scores</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="add_1_point">Add 1 point</string>
+    <string name="add_2_points">Add 2 points</string>
+    <string name="add_6_points">Add 6 points</string>
+    <string name="add_3_points">Add 3 points</string>
+    <string name="reset">reset</string>
+</resources>
